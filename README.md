@@ -1,6 +1,6 @@
 # cs-1.6-simple-anti-cheat
 
-its my first anti-cheat software and its very very very useless but we have to start somewhere
+its my first anti-cheat software and its very very very useless but i have to start somewhere
 
 its handling the game externally and checks offsets to check if user is in match.
 
